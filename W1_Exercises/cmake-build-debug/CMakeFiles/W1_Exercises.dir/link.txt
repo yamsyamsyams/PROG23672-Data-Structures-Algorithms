@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/W1_Exercises.dir/main.cpp.o  -o W1_Exercises.exe -Wl,--out-implib,libW1_Exercises.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
