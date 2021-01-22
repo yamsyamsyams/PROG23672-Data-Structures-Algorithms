@@ -5,9 +5,9 @@ using namespace std;
 int main() {
 
     // prints Hello 10x
-    /*for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < 10; i++) {
         cout << "Hello" << endl;
-    }*/
+    }
 
     // prints *'s in a pattern top heavy pyramid
     for (int i = 10; i > 0; i -= 2) {
