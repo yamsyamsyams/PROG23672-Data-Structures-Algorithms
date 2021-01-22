@@ -19,7 +19,6 @@ int main() {
 
     // prints pyramid right justified 1 on top
     for (int i = 0; i < 10; i++) {
-        cout << i;
         for (int j = i; j < 10; j++) {
             cout << " ";
         }
