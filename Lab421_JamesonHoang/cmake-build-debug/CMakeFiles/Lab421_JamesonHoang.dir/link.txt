@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab421_JamesonHoang.dir/TestStack.cpp.o  -o Lab421_JamesonHoang.exe -Wl,--out-implib,libLab421_JamesonHoang.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

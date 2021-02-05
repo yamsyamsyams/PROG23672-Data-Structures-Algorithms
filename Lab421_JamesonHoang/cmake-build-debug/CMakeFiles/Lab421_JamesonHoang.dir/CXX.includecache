@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab421_JamesonHoang/ArrayStack2.h
+MyExceptions.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab421_JamesonHoang/MyExceptions.h
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab421_JamesonHoang/MyExceptions.h
+string
+-
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab421_JamesonHoang/TestStack.cpp
+iostream
+-
+string
+-
+vector
+-
+ArrayStack2.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab421_JamesonHoang/ArrayStack2.h
+
