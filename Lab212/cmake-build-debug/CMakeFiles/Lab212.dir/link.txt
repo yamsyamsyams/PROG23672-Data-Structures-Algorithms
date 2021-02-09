@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab212.dir/main.cpp.o  -o Lab212.exe -Wl,--out-implib,libLab212.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

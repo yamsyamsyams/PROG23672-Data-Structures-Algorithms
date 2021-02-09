@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Circle.cpp
+iostream
+-
+Circle.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Circle.h
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Circle.h
+iostream
+-
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Cylinder.cpp
+Cylinder.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Cylinder.h
+Circle.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Circle.h
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Cylinder.h
+iostream
+-
+Circle.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Circle.h
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/test.cpp
+Circle.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Circle.h
+Cylinder.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab211/Cylinder.h
+iostream
+-
+vector
+-
+
