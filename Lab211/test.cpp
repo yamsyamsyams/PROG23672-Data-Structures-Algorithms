@@ -17,6 +17,7 @@ void testCircle() {
     delete c2; // de-allocate (release) the memory pointed by c2
 }
 
+// Lab212
 void CreateCircleVector() {
     // uses the build in vector class as a container for a set
 
@@ -39,10 +40,14 @@ void CreateCircleVector() {
     }
 }
 
+// Lab213
 void createCircleInStack(){
     Circle var1; // allocate memory to a circle in the stack
     var1.setRadius(10);
-    cout << "A circle from the stack: " << var1;
+    Circle var2;
+    var2.setRadius(15);
+    cout << "Circle1 from the stack: " << var1;
+    cout << "Circle2 from the stack: " << var2;
 }
 
 void testPolymorphism(){

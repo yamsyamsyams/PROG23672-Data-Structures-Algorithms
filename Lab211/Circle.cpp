@@ -24,6 +24,7 @@ std::ostream &operator<<(std::ostream &out, const Circle &c) {
     return out;
 }
 
+// Lab214
 Circle &operator+(Circle &fc, Circle &sc) {
     // we will provide c++ with the steps to get the sum of two circle objects
     int newRadius = fc.getRadius() + sc.getRadius();
