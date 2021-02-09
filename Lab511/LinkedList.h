@@ -13,8 +13,7 @@ class SNode {
 private:
     E elem;
     SNode<E> *next; // a pointer to next element, SNode is the datatype with structure of <E>
-    template<class E> friend
-    class SLinkedList; // friend class, make SNode and linkedlist friends
+    template<class> friend class SLinkedList; // friend class, make SNode and linkedlist friends
 
 };
 
@@ -25,15 +24,12 @@ public:
     SLinkedList(); // empty constructor
     ~SLinkedList(); // need destructor too
     bool empty() const;
-
-    const E &front() const;
-
-    void addFront(const E &e);
-
+    const E& front() const;
+    void addFront(const E& e);
     void removeFront();
 
 private:
-    SNode<E> *head; // head of the list, a pointer to the location of the first element
+    SNode<E>* head; // head of the list, a pointer to the location of the first element
 
 };
 
@@ -45,12 +41,12 @@ SLinkedList<E>::SLinkedList() // constructor
 }
 
 template<typename E>
-SLinkedList<E>::empty() const {
+bool SLinkedList<E>::empty() const {
     return head == NULL;
 }
 
 template<typename E>
-SLinkedList<E>::front() const {
+const E& SLinkedList<E>::front() const {
     return head->elem;
 }
 
