@@ -1,0 +1,3 @@
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab216_FileIO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab216_FileIO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab216_FileIO/cmake-build-debug/CMakeFiles/Lab216_FileIO.dir
