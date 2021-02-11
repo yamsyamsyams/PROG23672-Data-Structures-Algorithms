@@ -41,7 +41,7 @@ void readRecordsFromFile() {
 
     //open file
     fstream myFile;
-    myFile.open("S:\\Code\\PROG23672-Data-Structures-Algorithms\\Lab216_FileIO\\data.txt");
+    myFile.open("data.txt");
 
     //define temporary variables that hold data until stored into the vector
     string tmpName;
@@ -52,9 +52,6 @@ void readRecordsFromFile() {
     // the eof() checks the end of file every round in the while loop
     // and continue to read until the end of the file
     while (!myFile.eof()) {
-
-        cout << "In File" << endl;
-
 
         // read data from the file using the operator >>
         // the operator >> read letters from the current position of file pointer until the first white space
@@ -79,7 +76,6 @@ void readRecordsFromFile() {
 }
 
 int main() {
-    cout << "File opening" << endl;
     readRecordsFromFile();
     return 0;
 }
