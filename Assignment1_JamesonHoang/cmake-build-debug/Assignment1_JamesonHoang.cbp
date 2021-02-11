@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Athlete.cpp">
+			<Option target="Assignment1_JamesonHoang"/>
+		</Unit>
+		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Athlete.h">
+			<Option target="Assignment1_JamesonHoang"/>
+		</Unit>
+		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Person.cpp">
+			<Option target="Assignment1_JamesonHoang"/>
+		</Unit>
+		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Person.h">
+			<Option target="Assignment1_JamesonHoang"/>
+		</Unit>
 		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/main.cpp">
 			<Option target="Assignment1_JamesonHoang"/>
 		</Unit>

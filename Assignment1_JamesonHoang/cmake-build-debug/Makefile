@@ -143,6 +143,60 @@ Assignment1_JamesonHoang/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Assignment1_JamesonHoang.dir/build.make CMakeFiles/Assignment1_JamesonHoang.dir/build
 .PHONY : Assignment1_JamesonHoang/fast
 
+Athlete.o: Athlete.cpp.o
+
+.PHONY : Athlete.o
+
+# target to build an object file
+Athlete.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Assignment1_JamesonHoang.dir/build.make CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.o
+.PHONY : Athlete.cpp.o
+
+Athlete.i: Athlete.cpp.i
+
+.PHONY : Athlete.i
+
+# target to preprocess a source file
+Athlete.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Assignment1_JamesonHoang.dir/build.make CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.i
+.PHONY : Athlete.cpp.i
+
+Athlete.s: Athlete.cpp.s
+
+.PHONY : Athlete.s
+
+# target to generate assembly for a file
+Athlete.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Assignment1_JamesonHoang.dir/build.make CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.s
+.PHONY : Athlete.cpp.s
+
+Person.o: Person.cpp.o
+
+.PHONY : Person.o
+
+# target to build an object file
+Person.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Assignment1_JamesonHoang.dir/build.make CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.o
+.PHONY : Person.cpp.o
+
+Person.i: Person.cpp.i
+
+.PHONY : Person.i
+
+# target to preprocess a source file
+Person.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Assignment1_JamesonHoang.dir/build.make CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.i
+.PHONY : Person.cpp.i
+
+Person.s: Person.cpp.s
+
+.PHONY : Person.s
+
+# target to generate assembly for a file
+Person.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Assignment1_JamesonHoang.dir/build.make CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.s
+.PHONY : Person.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -179,6 +233,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Assignment1_JamesonHoang"
+	@echo "... Athlete.o"
+	@echo "... Athlete.i"
+	@echo "... Athlete.s"
+	@echo "... Person.o"
+	@echo "... Person.i"
+	@echo "... Person.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

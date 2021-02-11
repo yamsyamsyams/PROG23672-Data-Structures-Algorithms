@@ -1,0 +1,14 @@
+//
+// Created by jhoan on 2021-02-10.
+//
+
+#ifndef ASSIGNMENT1_JAMESONHOANG_ATHLETE_H
+#define ASSIGNMENT1_JAMESONHOANG_ATHLETE_H
+
+
+class Athlete {
+
+};
+
+
+#endif //ASSIGNMENT1_JAMESONHOANG_ATHLETE_H

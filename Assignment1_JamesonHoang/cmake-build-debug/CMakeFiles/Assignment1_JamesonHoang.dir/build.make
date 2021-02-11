@@ -90,17 +90,47 @@ CMakeFiles/Assignment1_JamesonHoang.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment1_JamesonHoang.dir/main.cpp.s"
 	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/main.cpp -o CMakeFiles/Assignment1_JamesonHoang.dir/main.cpp.s
 
+CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.o: CMakeFiles/Assignment1_JamesonHoang.dir/flags.make
+CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.o: ../Person.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.o -c /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Person.cpp
+
+CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Person.cpp > CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.i
+
+CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Person.cpp -o CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.s
+
+CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.o: CMakeFiles/Assignment1_JamesonHoang.dir/flags.make
+CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.o: ../Athlete.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.o -c /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Athlete.cpp
+
+CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Athlete.cpp > CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.i
+
+CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Athlete.cpp -o CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.s
+
 # Object files for target Assignment1_JamesonHoang
 Assignment1_JamesonHoang_OBJECTS = \
-"CMakeFiles/Assignment1_JamesonHoang.dir/main.cpp.o"
+"CMakeFiles/Assignment1_JamesonHoang.dir/main.cpp.o" \
+"CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.o" \
+"CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.o"
 
 # External object files for target Assignment1_JamesonHoang
 Assignment1_JamesonHoang_EXTERNAL_OBJECTS =
 
 Assignment1_JamesonHoang.exe: CMakeFiles/Assignment1_JamesonHoang.dir/main.cpp.o
+Assignment1_JamesonHoang.exe: CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.o
+Assignment1_JamesonHoang.exe: CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.o
 Assignment1_JamesonHoang.exe: CMakeFiles/Assignment1_JamesonHoang.dir/build.make
 Assignment1_JamesonHoang.exe: CMakeFiles/Assignment1_JamesonHoang.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Assignment1_JamesonHoang.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Assignment1_JamesonHoang.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Assignment1_JamesonHoang.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

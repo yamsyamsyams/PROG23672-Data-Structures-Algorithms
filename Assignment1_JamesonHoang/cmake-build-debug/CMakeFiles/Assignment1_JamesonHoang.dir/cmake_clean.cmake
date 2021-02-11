@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "Assignment1_JamesonHoang.exe"
   "Assignment1_JamesonHoang.pdb"
+  "CMakeFiles/Assignment1_JamesonHoang.dir/Athlete.cpp.o"
+  "CMakeFiles/Assignment1_JamesonHoang.dir/Person.cpp.o"
   "CMakeFiles/Assignment1_JamesonHoang.dir/main.cpp.o"
   "libAssignment1_JamesonHoang.dll.a"
 )
