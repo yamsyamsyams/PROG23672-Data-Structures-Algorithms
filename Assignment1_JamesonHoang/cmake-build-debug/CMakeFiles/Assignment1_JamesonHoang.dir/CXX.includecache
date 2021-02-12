@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Athlete.h
+iostream
+-
+Person.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Person.h
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Person.h
+iostream
+-
+string
+-
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+Person.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Person.h
+Athlete.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment1_JamesonHoang/Athlete.h
+

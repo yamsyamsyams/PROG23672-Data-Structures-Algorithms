@@ -1,0 +1,10 @@
+//
+// Created by jhoan on 2021-02-12.
+//
+
+#ifndef LAB512_STACKLINKEDLIST_H
+#define LAB512_STACKLINKEDLIST_H
+
+
+
+#endif //LAB512_STACKLINKEDLIST_H
