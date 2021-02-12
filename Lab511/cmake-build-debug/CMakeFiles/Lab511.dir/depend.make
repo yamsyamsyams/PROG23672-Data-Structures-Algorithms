@@ -4,6 +4,7 @@
 CMakeFiles/Lab511.dir/main.cpp.o: ../main.cpp
 
 CMakeFiles/Lab511.dir/useLinkedList.cpp.o: ../LinkedList.h
+CMakeFiles/Lab511.dir/useLinkedList.cpp.o: ../LinkedStack.h
 CMakeFiles/Lab511.dir/useLinkedList.cpp.o: ../MyExceptions.h
 CMakeFiles/Lab511.dir/useLinkedList.cpp.o: ../useLinkedList.cpp
 
