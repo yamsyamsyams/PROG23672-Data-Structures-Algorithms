@@ -16,20 +16,21 @@ private:
     string nationality;
 public:
     Person();
+    Person(string fn, string ln, string nt);
 
-    string getFirstName(){
+    string getFirstName() const{
         return firstName;
     }
     void setFirstName(string fName){
         firstName = fName;
     }
-    string getLastName(){
+    string getLastName() const{
         return lastName;
     }
     void setLastName(string lName){
         lastName = lName;
     }
-    string getNationality(){
+    string getNationality() const{
         return nationality;
     }
     void setNationality(string nation){
@@ -37,6 +38,7 @@ public:
     }
 
 };
+std::ostream &operator<<(std::ostream &out, const Person &p);
 
 
 #endif //ASSIGNMENT1_JAMESONHOANG_PERSON_H
