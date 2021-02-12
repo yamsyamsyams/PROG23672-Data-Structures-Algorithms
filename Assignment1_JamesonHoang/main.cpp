@@ -17,22 +17,68 @@ void testPerson() {
     delete p1;
 }
 
+vector<Athlete> athleteList;
 void CreateAthleteVector() {
-    vector<Athlete *> athleteList(3);
 
-    for (int i = 0; i < 3; i++) {
-        athleteList[i] = new Athlete("aa", "bb", "cc", 10.0);
-    }
-    cout << athleteList.size() << " Athletes founds in the list";
-
-    for (int i = 0; i < 3; i++) {
-        cout << *athleteList[i] << "\n";
+    fstream file;
+    file.open("jump.txt");
+    if (file.is_open()) {
+        cout << "The data is loaded successfully\n";
+    } else {
+        cout << "Error opening file\n";
     }
 
+    string tmpFName;
+    string tmpLName;
+    string tmpNation;
+    string tmpDistance;
+    Athlete tmpAthlete;
+    string trash;
+    getline(file, trash);
+
+    while (!file.eof()) {
+        getline(file, trash);
+        file >> tmpFName;
+        file >> tmpLName;
+        file >> tmpNation;
+        file >> tmpDistance;
+
+//        cout << tmpFName << "\n";
+//        cout << tmpLName << "\n";
+//        cout << tmpNation << "\n";
+//        cout << tmpDistance << "\n";
+
+        double tdoubleDistance = stod(tmpDistance);
+
+        tmpAthlete.setFirstName(tmpFName);
+        tmpAthlete.setLastName(tmpLName);
+        tmpAthlete.setNationality(tmpNation);
+        tmpAthlete.setDistance(tdoubleDistance);
+
+        athleteList.push_back(tmpAthlete);
+    }
+
+    for (int i = 0; i < athleteList.size(); i++) {
+        cout << athleteList[i] << "\n";
+    }
+}
+
+void checkDistance(double d){
+    for(int i = 0; i < athleteList.size(); i++){
+        if(d > athleteList[i].getDistance()){
+            cout << athleteList[i] << "\n";
+        }
+    }
 }
 
 int main() {
     CreateAthleteVector();
+
+    double userIn;
+    cout << "Please enter the distance threshold: " << endl;
+    cin >> userIn;
+//    checkDistance(userIn);
+
 //    testPerson();
 
 

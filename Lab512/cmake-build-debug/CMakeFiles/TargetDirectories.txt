@@ -1,3 +1,0 @@
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab512/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab512/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab512/cmake-build-debug/CMakeFiles/Lab512.dir

@@ -7,6 +7,10 @@
 
 using namespace std;
 
+Athlete::Athlete() {
+    jumpDistance = 0.0;
+}
+
 Athlete::Athlete(string fn, string ln, string nt, double d) : Person(fn, ln, nt) {
     jumpDistance = d;
 }

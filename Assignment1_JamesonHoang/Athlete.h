@@ -12,6 +12,7 @@ class Athlete : public Person {
 private:
     double jumpDistance;
 public:
+    Athlete();
     Athlete(string fn, string ln, string nt, double d);
 
     double getDistance() const{
