@@ -43,11 +43,6 @@ void CreateAthleteVector() {
         file >> tmpNation;
         file >> tmpDistance;
 
-//        cout << tmpFName << "\n";
-//        cout << tmpLName << "\n";
-//        cout << tmpNation << "\n";
-//        cout << tmpDistance << "\n";
-
         double tdoubleDistance = stod(tmpDistance);
 
         tmpAthlete.setFirstName(tmpFName);
@@ -57,30 +52,26 @@ void CreateAthleteVector() {
 
         athleteList.push_back(tmpAthlete);
     }
-
-    for (int i = 0; i < athleteList.size(); i++) {
-        cout << athleteList[i] << "\n";
-    }
 }
 
 void checkDistance(double d){
+    cout << "The athletes who exceeded " << d << " are: " << endl;
     for(int i = 0; i < athleteList.size(); i++){
-        if(d > athleteList[i].getDistance()){
+        if(athleteList[i].getDistance() > d){
             cout << athleteList[i] << "\n";
         }
     }
 }
 
 int main() {
+//    testPerson();
     CreateAthleteVector();
 
     double userIn;
     cout << "Please enter the distance threshold: " << endl;
     cin >> userIn;
-//    checkDistance(userIn);
 
-//    testPerson();
-
+    checkDistance(userIn);
 
     return 0;
 }

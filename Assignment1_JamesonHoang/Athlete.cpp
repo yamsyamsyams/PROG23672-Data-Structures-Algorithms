@@ -16,7 +16,7 @@ Athlete::Athlete(string fn, string ln, string nt, double d) : Person(fn, ln, nt)
 }
 
 std::ostream& operator<<(std::ostream& out, const Athlete&a) {
-    out << "An athlete object: \n First Name: " << a.getFirstName() << "\n Last Name: " << a.getLastName() <<
+    out << "Athlete: \n First Name: " << a.getFirstName() << "\n Last Name: " << a.getLastName() <<
     "\n Nationality: " << a.getNationality() << "\n Jump Distance: " << a.getDistance();
     return out;
 }
