@@ -18,6 +18,7 @@ void testPerson() {
 }
 
 vector<Athlete> athleteList;
+
 void CreateAthleteVector() {
 
     fstream file;
@@ -54,10 +55,10 @@ void CreateAthleteVector() {
     }
 }
 
-void checkDistance(double d){
-    cout << "The athletes who exceeded " << d << " are: " << endl;
-    for(int i = 0; i < athleteList.size(); i++){
-        if(athleteList[i].getDistance() > d){
+void checkDistance(double d) {
+    cout << "The athletes who exceeded " << d << "m are: " << endl;
+    for (int i = 0; i < athleteList.size(); i++) {
+        if (athleteList[i].getDistance() > d) {
             cout << athleteList[i] << "\n";
         }
     }
@@ -68,9 +69,16 @@ int main() {
     CreateAthleteVector();
 
     double userIn;
-    cout << "Please enter the distance threshold: " << endl;
+    cout << "Please enter the distance threshold: ";
     cin >> userIn;
-
+    while(cin.fail()){
+        if(cin.fail()){
+            cout << "Invalid input, try again! \n";
+        }
+        cin.clear();
+        cin.ignore();
+        cin >> userIn;
+    }
     checkDistance(userIn);
 
     return 0;
