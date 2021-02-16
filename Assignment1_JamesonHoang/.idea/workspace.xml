@@ -11,13 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c34276-4cff-42e2-8412-8db7b6147a4f" name="Default Changelist" comment="FINISHED... Unless prof wants user input validation.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment1_JamesonHoang.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment1_JamesonHoang.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1_JamesonHoang.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment1_JamesonHoang.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="41c34276-4cff-42e2-8412-8db7b6147a4f" name="Default Changelist" comment="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,11 +55,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,7 +66,7 @@
       <updated>1613013859333</updated>
       <workItem from="1613013862061" duration="1666000" />
       <workItem from="1613062023318" duration="6693000" />
-      <workItem from="1613156788841" duration="15436000" />
+      <workItem from="1613156788841" duration="15620000" />
     </task>
     <task id="LOCAL-00001" summary="A good start">
       <created>1613016094368</created>
@@ -114,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613173748267</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation.">
+      <created>1613185794512</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613185794512</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +133,7 @@
     <MESSAGE value="classes done, let's make file opening now" />
     <MESSAGE value="can't compare to user input to print" />
     <MESSAGE value="FINISHED... Unless prof wants user input validation." />
-    <option name="LAST_COMMIT_MESSAGE" value="FINISHED... Unless prof wants user input validation." />
+    <MESSAGE value="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation." />
+    <option name="LAST_COMMIT_MESSAGE" value="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation." />
   </component>
 </project>
