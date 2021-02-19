@@ -67,6 +67,7 @@
       <workItem from="1613013862061" duration="1666000" />
       <workItem from="1613062023318" duration="6693000" />
       <workItem from="1613156788841" duration="15620000" />
+      <workItem from="1613505748649" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="A good start">
       <created>1613016094368</created>
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613185794512</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation.">
+      <created>1613505769849</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613505769849</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

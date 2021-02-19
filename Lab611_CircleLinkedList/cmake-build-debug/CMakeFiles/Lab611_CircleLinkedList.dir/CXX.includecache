@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab611_CircleLinkedList/CircleList.h
+string
+-
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab611_CircleLinkedList/MyExceptions.h
+string
+-
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab611_CircleLinkedList/Queue.h
+string
+-
+CircleList.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab611_CircleLinkedList/CircleList.h
+MyExceptions.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab611_CircleLinkedList/MyExceptions.h
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab611_CircleLinkedList/test.cpp
+iostream
+-
+CircleList.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab611_CircleLinkedList/CircleList.h
+Queue.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab611_CircleLinkedList/Queue.h
+

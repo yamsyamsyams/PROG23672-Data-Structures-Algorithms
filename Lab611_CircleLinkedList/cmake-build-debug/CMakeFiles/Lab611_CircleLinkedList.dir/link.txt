@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab611_CircleLinkedList.dir/test.cpp.o  -o Lab611_CircleLinkedList.exe -Wl,--out-implib,libLab611_CircleLinkedList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
