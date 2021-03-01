@@ -80,16 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/LinkedList.h">
-			<Option target="Assignment2_Part2_JamesonHoang"/>
-		</Unit>
 		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/MyExceptions.h">
 			<Option target="Assignment2_Part2_JamesonHoang"/>
 		</Unit>
 		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/MyLinkedList.cpp">
 			<Option target="Assignment2_Part2_JamesonHoang"/>
 		</Unit>
-		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/main.cpp">
+		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/MyLinkedList.h">
 			<Option target="Assignment2_Part2_JamesonHoang"/>
 		</Unit>
 		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/CMakeLists.txt">

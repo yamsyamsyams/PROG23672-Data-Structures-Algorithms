@@ -19,7 +19,7 @@ public:
         return errorMsg;
     }
 };
-class LinkedException : public RuntimeException {
+class LinkedListException : public RuntimeException {
 public:
     LinkedListException(const string& err) : RuntimeException(err) {
 

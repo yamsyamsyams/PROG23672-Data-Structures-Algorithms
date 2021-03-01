@@ -2,7 +2,6 @@ file(REMOVE_RECURSE
   "Assignment2_Part2_JamesonHoang.exe"
   "Assignment2_Part2_JamesonHoang.pdb"
   "CMakeFiles/Assignment2_Part2_JamesonHoang.dir/MyLinkedList.cpp.o"
-  "CMakeFiles/Assignment2_Part2_JamesonHoang.dir/main.cpp.o"
   "libAssignment2_Part2_JamesonHoang.dll.a"
 )
 

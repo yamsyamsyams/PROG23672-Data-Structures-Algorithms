@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c34276-4cff-42e2-8412-8db7b6147a4f" name="Default Changelist" comment="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation." />
+    <list default="true" id="41c34276-4cff-42e2-8412-8db7b6147a4f" name="Default Changelist" comment="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation.">
+      <change beforePath="$PROJECT_DIR$/../Assignment2_Part2_JamesonHoang/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2_Part2_JamesonHoang/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab211" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab511" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,6 +70,7 @@
       <workItem from="1613062023318" duration="6693000" />
       <workItem from="1613156788841" duration="15620000" />
       <workItem from="1613505748649" duration="61000" />
+      <workItem from="1614631189482" duration="202000" />
     </task>
     <task id="LOCAL-00001" summary="A good start">
       <created>1613016094368</created>

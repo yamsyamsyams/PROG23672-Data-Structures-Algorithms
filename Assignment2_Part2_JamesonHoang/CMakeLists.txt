@@ -3,4 +3,4 @@ project(Assignment2_Part2_JamesonHoang)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Assignment2_Part2_JamesonHoang main.cpp MyLinkedList.h MyExceptions.h)
+add_executable(Assignment2_Part2_JamesonHoang MyLinkedList.cpp MyLinkedList.h MyExceptions.h)

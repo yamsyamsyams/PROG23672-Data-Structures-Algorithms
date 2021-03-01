@@ -37,7 +37,7 @@ private:
 };
 
 template<typename E>
-SLinkedList<E>::SLinkedList():head(NULL){
+SLinkedList<E>::SLinkedList() : head(NULL){
 
 }
 
@@ -54,6 +54,13 @@ const E& SLinkedList<E>::front() const {
 template<typename E>
 const E& SLinkedList<E>::last() const {
     return tail->elem;
+}
+
+template<typename E>
+SLinkedList<E>::~SLinkedList<E>() {
+    while(!empty()){
+        removeFront();
+    }
 }
 
 template<typename E>
@@ -106,7 +113,7 @@ template<typename E>
 void SLinkedList<E>::print() {
     SNode<E>* current = head;
     while(current != nullptr){
-        cout << current->elem << " " << endl;
+        cout << current->elem << " ";
         current = current->next;
     }
 }

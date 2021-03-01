@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Assignment2_Part2_JamesonHoang.dir/main.cpp.o CMakeFiles/Assignment2_Part2_JamesonHoang.dir/MyLinkedList.cpp.o  -o Assignment2_Part2_JamesonHoang.exe -Wl,--out-implib,libAssignment2_Part2_JamesonHoang.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Assignment2_Part2_JamesonHoang.dir/MyLinkedList.cpp.o  -o Assignment2_Part2_JamesonHoang.exe -Wl,--out-implib,libAssignment2_Part2_JamesonHoang.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
