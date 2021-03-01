@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab621_Containers_Iterators/NodeList.h">
+			<Option target="Lab621_Containers_Iterators"/>
+		</Unit>
 		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab621_Containers_Iterators/main.cpp">
 			<Option target="Lab621_Containers_Iterators"/>
 		</Unit>
