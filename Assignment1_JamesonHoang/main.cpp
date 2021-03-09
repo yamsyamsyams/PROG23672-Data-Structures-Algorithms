@@ -17,7 +17,7 @@ void testPerson() {
     delete p1;
 }
 
-vector<Athlete> athleteList;
+vector<Athlete*> athleteList;
 
 void CreateAthleteVector() {
 
@@ -33,7 +33,7 @@ void CreateAthleteVector() {
     string tmpLName;
     string tmpNation;
     string tmpDistance;
-    Athlete tmpAthlete;
+    Athlete *tmpAthlete;
     string trash;
     getline(file, trash);
 
@@ -45,11 +45,11 @@ void CreateAthleteVector() {
         file >> tmpDistance;
 
         double tdoubleDistance = stod(tmpDistance);
-
-        tmpAthlete.setFirstName(tmpFName);
-        tmpAthlete.setLastName(tmpLName);
-        tmpAthlete.setNationality(tmpNation);
-        tmpAthlete.setDistance(tdoubleDistance);
+        tmpAthlete = new Athlete();
+        tmpAthlete->setFirstName(tmpFName);
+        tmpAthlete->setLastName(tmpLName);
+        tmpAthlete->setNationality(tmpNation);
+        tmpAthlete->setDistance(tdoubleDistance);
 
         athleteList.push_back(tmpAthlete);
     }
@@ -58,7 +58,7 @@ void CreateAthleteVector() {
 void checkDistance(double d) {
     cout << "The athletes who exceeded " << d << "m are: " << endl;
     for (int i = 0; i < athleteList.size(); i++) {
-        if (athleteList[i].getDistance() > d) {
+        if (athleteList[i]->getDistance() > d) {
             cout << athleteList[i] << "\n";
         }
     }
