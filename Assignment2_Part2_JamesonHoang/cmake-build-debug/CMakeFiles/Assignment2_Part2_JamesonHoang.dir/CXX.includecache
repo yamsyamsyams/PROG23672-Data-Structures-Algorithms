@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/MyExceptions.h
+string
+-
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/MyLinkedList.cpp
+iostream
+-
+stdlib.h
+-
+string.h
+-
+MyLinkedList.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/MyLinkedList.h
+MyExceptions.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/MyExceptions.h
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/MyLinkedList.h
+MyExceptions.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment2_Part2_JamesonHoang/MyExceptions.h
+
