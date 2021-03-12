@@ -143,32 +143,32 @@ Exercise811_BinaryTree/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercise811_BinaryTree.dir/build.make CMakeFiles/Exercise811_BinaryTree.dir/build
 .PHONY : Exercise811_BinaryTree/fast
 
-main.o: main.cpp.o
+ICE811_btree.o: ICE811_btree.cpp.o
 
-.PHONY : main.o
+.PHONY : ICE811_btree.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercise811_BinaryTree.dir/build.make CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.o
-.PHONY : main.cpp.o
+ICE811_btree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercise811_BinaryTree.dir/build.make CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o
+.PHONY : ICE811_btree.cpp.o
 
-main.i: main.cpp.i
+ICE811_btree.i: ICE811_btree.cpp.i
 
-.PHONY : main.i
+.PHONY : ICE811_btree.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercise811_BinaryTree.dir/build.make CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.i
-.PHONY : main.cpp.i
+ICE811_btree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercise811_BinaryTree.dir/build.make CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.i
+.PHONY : ICE811_btree.cpp.i
 
-main.s: main.cpp.s
+ICE811_btree.s: ICE811_btree.cpp.s
 
-.PHONY : main.s
+.PHONY : ICE811_btree.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercise811_BinaryTree.dir/build.make CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.s
-.PHONY : main.cpp.s
+ICE811_btree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercise811_BinaryTree.dir/build.make CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.s
+.PHONY : ICE811_btree.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Exercise811_BinaryTree"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... ICE811_btree.o"
+	@echo "... ICE811_btree.i"
+	@echo "... ICE811_btree.s"
 .PHONY : help
 
 

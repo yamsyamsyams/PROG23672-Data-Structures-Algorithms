@@ -77,27 +77,27 @@ include CMakeFiles/Exercise811_BinaryTree.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Exercise811_BinaryTree.dir/flags.make
 
-CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.o: CMakeFiles/Exercise811_BinaryTree.dir/flags.make
-CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.o -c /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/main.cpp
+CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o: CMakeFiles/Exercise811_BinaryTree.dir/flags.make
+CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o: ../ICE811_btree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o -c /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/ICE811_btree.cpp
 
-CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/main.cpp > CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.i
+CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/ICE811_btree.cpp > CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.i
 
-CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/main.cpp -o CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.s
+CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/ICE811_btree.cpp -o CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.s
 
 # Object files for target Exercise811_BinaryTree
 Exercise811_BinaryTree_OBJECTS = \
-"CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.o"
+"CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o"
 
 # External object files for target Exercise811_BinaryTree
 Exercise811_BinaryTree_EXTERNAL_OBJECTS =
 
-Exercise811_BinaryTree.exe: CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.o
+Exercise811_BinaryTree.exe: CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o
 Exercise811_BinaryTree.exe: CMakeFiles/Exercise811_BinaryTree.dir/build.make
 Exercise811_BinaryTree.exe: CMakeFiles/Exercise811_BinaryTree.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Exercise811_BinaryTree.exe"

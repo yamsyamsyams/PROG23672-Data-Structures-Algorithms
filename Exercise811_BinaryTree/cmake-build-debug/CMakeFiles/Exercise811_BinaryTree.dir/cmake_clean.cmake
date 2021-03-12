@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Exercise811_BinaryTree.dir/main.cpp.o"
+  "CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o"
   "Exercise811_BinaryTree.exe"
   "Exercise811_BinaryTree.pdb"
   "libExercise811_BinaryTree.dll.a"

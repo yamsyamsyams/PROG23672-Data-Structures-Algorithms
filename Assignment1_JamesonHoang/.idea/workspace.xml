@@ -11,12 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c34276-4cff-42e2-8412-8db7b6147a4f" name="Default Changelist" comment="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation.">
+    <list default="true" id="41c34276-4cff-42e2-8412-8db7b6147a4f" name="Default Changelist" comment="corrected with professsor&#10;---&#10;user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment1_JamesonHoang.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment1_JamesonHoang.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2_Part2_JamesonHoang/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2_Part2_JamesonHoang/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab511/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab511/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exercise811_BinaryTree" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,7 +80,8 @@
       <workItem from="1613156788841" duration="15620000" />
       <workItem from="1613505748649" duration="61000" />
       <workItem from="1614631189482" duration="202000" />
-      <workItem from="1615326991312" duration="1635000" />
+      <workItem from="1615326991312" duration="1760000" />
+      <workItem from="1615519748377" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="A good start">
       <created>1613016094368</created>
@@ -134,7 +132,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613505769849</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="corrected with professsor&#10;---&#10;user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation.">
+      <created>1615328754620</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615328754620</updated>
+    </task>
+    <task id="LOCAL-00009" summary="corrected with professsor&#10;---&#10;user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation.">
+      <created>1615328760284</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615328760284</updated>
+    </task>
+    <task id="LOCAL-00010" summary="corrected with professsor&#10;---&#10;user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation.">
+      <created>1615328852301</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615328852301</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +177,7 @@
     <MESSAGE value="can't compare to user input to print" />
     <MESSAGE value="FINISHED... Unless prof wants user input validation." />
     <MESSAGE value="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation." />
-    <option name="LAST_COMMIT_MESSAGE" value="user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation." />
+    <MESSAGE value="corrected with professsor&#10;---&#10;user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation." />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected with professsor&#10;---&#10;user validation inputted&#10;---&#10;FINISHED... Unless prof wants user input validation." />
   </component>
 </project>
