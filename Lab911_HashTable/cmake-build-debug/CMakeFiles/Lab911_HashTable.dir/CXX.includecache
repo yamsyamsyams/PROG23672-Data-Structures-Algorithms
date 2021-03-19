@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab911_HashTable/lineprobing.cpp
+iostream
+-
+fstream
+-
+
