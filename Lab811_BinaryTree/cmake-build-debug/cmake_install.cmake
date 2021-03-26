@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree
+# Install script for directory: /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

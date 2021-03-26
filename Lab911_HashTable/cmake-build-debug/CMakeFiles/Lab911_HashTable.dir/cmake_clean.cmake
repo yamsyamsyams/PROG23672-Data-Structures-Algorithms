@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Lab911_HashTable.dir/lineprobing.cpp.o"
+  "CMakeFiles/Lab911_HashTable.dir/resolve_collisions.cpp.o"
   "Lab911_HashTable.exe"
   "Lab911_HashTable.pdb"
   "libLab911_HashTable.dll.a"

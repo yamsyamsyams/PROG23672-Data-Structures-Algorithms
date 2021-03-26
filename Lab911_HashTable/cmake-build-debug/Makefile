@@ -143,32 +143,32 @@ Lab911_HashTable/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab911_HashTable.dir/build.make CMakeFiles/Lab911_HashTable.dir/build
 .PHONY : Lab911_HashTable/fast
 
-lineprobing.o: lineprobing.cpp.o
+resolve_collisions.o: resolve_collisions.cpp.o
 
-.PHONY : lineprobing.o
+.PHONY : resolve_collisions.o
 
 # target to build an object file
-lineprobing.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab911_HashTable.dir/build.make CMakeFiles/Lab911_HashTable.dir/lineprobing.cpp.o
-.PHONY : lineprobing.cpp.o
+resolve_collisions.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab911_HashTable.dir/build.make CMakeFiles/Lab911_HashTable.dir/resolve_collisions.cpp.o
+.PHONY : resolve_collisions.cpp.o
 
-lineprobing.i: lineprobing.cpp.i
+resolve_collisions.i: resolve_collisions.cpp.i
 
-.PHONY : lineprobing.i
+.PHONY : resolve_collisions.i
 
 # target to preprocess a source file
-lineprobing.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab911_HashTable.dir/build.make CMakeFiles/Lab911_HashTable.dir/lineprobing.cpp.i
-.PHONY : lineprobing.cpp.i
+resolve_collisions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab911_HashTable.dir/build.make CMakeFiles/Lab911_HashTable.dir/resolve_collisions.cpp.i
+.PHONY : resolve_collisions.cpp.i
 
-lineprobing.s: lineprobing.cpp.s
+resolve_collisions.s: resolve_collisions.cpp.s
 
-.PHONY : lineprobing.s
+.PHONY : resolve_collisions.s
 
 # target to generate assembly for a file
-lineprobing.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab911_HashTable.dir/build.make CMakeFiles/Lab911_HashTable.dir/lineprobing.cpp.s
-.PHONY : lineprobing.cpp.s
+resolve_collisions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab911_HashTable.dir/build.make CMakeFiles/Lab911_HashTable.dir/resolve_collisions.cpp.s
+.PHONY : resolve_collisions.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Lab911_HashTable"
-	@echo "... lineprobing.o"
-	@echo "... lineprobing.i"
-	@echo "... lineprobing.s"
+	@echo "... resolve_collisions.o"
+	@echo "... resolve_collisions.i"
+	@echo "... resolve_collisions.s"
 .PHONY : help
 
 

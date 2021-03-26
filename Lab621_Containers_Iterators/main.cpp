@@ -23,6 +23,7 @@ int vectorSum2(vector<int> V) {
     for (Iterator p = V.begin(); p != V.end(); ++p) {
         sum += *p;
     }
+    return sum;
 }
 
 
@@ -40,12 +41,12 @@ void use_vector() {
     int a[] = {23, 11, 44, 45, 85, 77};
     vector<int> v(a, a + 6); // outputs 23 11 44 45 85 77
     cout << v.size() << endl; // outputs: 6
-    v.pop_back();
-    cout << v.size() << endl;
-    v.push_back(19);
+    v.pop_back(); // 23, 11, 44, 45, 85
+    cout << v.size() << endl; // now outputs 5
+    v.push_back(19); // 23, 11, 44, 45, 85, 19
     cout << v.front() << " " << v.back() << endl;
-    sort(v.begin(), v.begin() + 4);
-    v.erase(v.end() - 4, v.end() - 2);
+    sort(v.begin(), v.begin() + 4); // sorts first 4 elements, result: 11, 23, 44, 45, 85, 19
+    v.erase(v.end() - 4, v.end() - 2); // result: 11, 23, 85, 19
     cout << v.size() << endl;
 
     cout << " Vector sum 1: " << vectorSum1(v) << "\n";

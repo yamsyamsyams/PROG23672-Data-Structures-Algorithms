@@ -131,6 +131,4 @@ NodeList::Iterator NodeList::end() const { // begin position
     return Iterator(trailer);
 }
 
-
-
 #endif //LAB621_CONTAINERS_ITERATORS_NODELIST_H

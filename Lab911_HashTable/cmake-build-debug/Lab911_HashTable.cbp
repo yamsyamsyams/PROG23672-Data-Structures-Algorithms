@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab911_HashTable/lineprobing.cpp">
+		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab911_HashTable/resolve_collisions.cpp">
 			<Option target="Lab911_HashTable"/>
 		</Unit>
 		<Unit filename="/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab911_HashTable/CMakeLists.txt">

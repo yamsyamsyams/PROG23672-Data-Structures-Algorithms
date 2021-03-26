@@ -3,4 +3,4 @@ project(Lab911_HashTable)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Lab911_HashTable lineprobing.cpp)
+add_executable(Lab911_HashTable resolve_collisions.cpp)

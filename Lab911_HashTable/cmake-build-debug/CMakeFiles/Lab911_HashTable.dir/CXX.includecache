@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab911_HashTable/lineprobing.cpp
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab911_HashTable/resolve_collisions.cpp
 iostream
 -
 fstream

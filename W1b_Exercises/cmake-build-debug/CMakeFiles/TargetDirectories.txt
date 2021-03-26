@@ -1,3 +1,0 @@
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/W1b_Exercises/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/W1b_Exercises/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir

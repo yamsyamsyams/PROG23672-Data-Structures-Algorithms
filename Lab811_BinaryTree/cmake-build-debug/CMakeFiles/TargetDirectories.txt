@@ -1,3 +1,3 @@
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir

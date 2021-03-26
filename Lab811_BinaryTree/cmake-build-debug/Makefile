@@ -68,10 +68,10 @@ RM = /cygdrive/c/Users/jhoan/AppData/Local/JetBrains/CLion2020.3/cygwin_cmake/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree
+CMAKE_SOURCE_DIR = /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,9 +100,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/CMakeFiles /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree/cmake-build-debug/CMakeFiles /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Exercise811_BinaryTree/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab811_BinaryTree/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
