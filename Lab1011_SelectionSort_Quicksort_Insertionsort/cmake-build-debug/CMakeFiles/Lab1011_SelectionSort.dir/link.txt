@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab1011_SelectionSort.dir/main.cpp.o  -o Lab1011_SelectionSort.exe -Wl,--out-implib,libLab1011_SelectionSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

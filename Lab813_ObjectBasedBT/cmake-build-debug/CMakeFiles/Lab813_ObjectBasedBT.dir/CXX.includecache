@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab813_ObjectBasedBT/LinkedBinaryTree.h
+iostream
+-
+list
+-
+string
+-
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab813_ObjectBasedBT/main.cpp
+iostream
+-
+string
+-
+LinkedBinaryTree.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab813_ObjectBasedBT/LinkedBinaryTree.h
+

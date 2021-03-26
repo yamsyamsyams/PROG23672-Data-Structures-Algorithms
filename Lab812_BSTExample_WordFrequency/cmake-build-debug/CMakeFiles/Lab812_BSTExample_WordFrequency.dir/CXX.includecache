@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab812_BSTExample_WordFrequency/main.cpp
+iostream
+-
+fstream
+-
+string.h
+-
+cstring
+-
+

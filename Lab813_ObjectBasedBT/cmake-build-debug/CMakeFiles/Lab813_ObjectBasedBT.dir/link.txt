@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab813_ObjectBasedBT.dir/main.cpp.o  -o Lab813_ObjectBasedBT.exe -Wl,--out-implib,libLab813_ObjectBasedBT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

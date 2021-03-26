@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab1011_SelectionSort_Quicksort_Insertionsort/main.cpp
+iostream
+-
+
