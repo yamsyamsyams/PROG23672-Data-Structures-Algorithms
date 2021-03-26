@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab621_Containers_Iterators/NodeList.h
+
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab621_Containers_Iterators/NodeSequence.h
+NodeList.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab621_Containers_Iterators/NodeList.h
+
 /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab621_Containers_Iterators/main.cpp
 iostream
 -
@@ -15,4 +21,6 @@ vector
 -
 algorithm
 -
+NodeSequence.h
+/cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Lab621_Containers_Iterators/NodeSequence.h
 

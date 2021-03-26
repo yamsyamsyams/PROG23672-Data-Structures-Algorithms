@@ -12,15 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f6fb59-17df-4e98-b2bd-c1c7216e3570" name="Default Changelist" comment="containers and iterators">
-      <change afterPath="$PROJECT_DIR$/NodeSequence.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NodeList.h" beforeDir="false" afterPath="$PROJECT_DIR$/NodeList.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab621_Containers_Iterators.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab621_Containers_Iterators.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab621_Containers_Iterators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab621_Containers_Iterators.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/depend.make" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab811_BinaryTree" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,7 +89,7 @@
       <workItem from="1614623570190" duration="77000" />
       <workItem from="1616721822970" duration="2163000" />
       <workItem from="1616773157553" duration="71000" />
-      <workItem from="1616784002677" duration="5320000" />
+      <workItem from="1616784002677" duration="5337000" />
     </task>
     <task id="LOCAL-00001" summary="containers and iterators">
       <created>1613760339945</created>
@@ -111,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616722599738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="containers and iterators">
+      <created>1616793349554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616793349554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
