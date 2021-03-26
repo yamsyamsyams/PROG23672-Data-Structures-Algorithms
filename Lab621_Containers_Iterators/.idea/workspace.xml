@@ -12,144 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f6fb59-17df-4e98-b2bd-c1c7216e3570" name="Default Changelist" comment="containers and iterators">
-      <change afterPath="$PROJECT_DIR$/../Assignment3_JamesonHoang/.idea/Assignment3_JamesonHoang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3_JamesonHoang/integers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab111_Exercises/.idea/W1_Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab112_Exercises/.idea/W1b_Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab812_BSTExample_WordFrequency/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab812_BSTExample_WordFrequency/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab812_BSTExample_WordFrequency/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab812_BSTExample_WordFrequency/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab812_BSTExample_WordFrequency/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab812_BSTExample_WordFrequency/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab812_BSTExample_WordFrequency/wordFreq.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab812_BSTExample_WordFrequency/wordfreq.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NodeSequence.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NodeList.h" beforeDir="false" afterPath="$PROJECT_DIR$/NodeList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab621_Containers_Iterators.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab621_Containers_Iterators.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab621_Containers_Iterators.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab621_Containers_Iterators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab621_Containers_Iterators.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/ICE811_btree.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Exercise811_BinaryTree.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/Exercise811_BinaryTree.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/Exercise811_BinaryTree.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/Exercise811_BinaryTree.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/Exercise811_BinaryTree.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab811_BinaryTree/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/lineprobing.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/Lab911_HashTable.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/Lab911_HashTable.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/Lab911_HashTable.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/Lab911_HashTable.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/Lab911_HashTable.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab911_HashTable/lineprobing.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab911_HashTable/resolve_collisions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/.idea/W1_Exercises.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/W1_Exercises.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/W1_Exercises.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/W1_Exercises.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1_Exercises/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/.idea/W1b_Exercises.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/W1b_Exercises.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/W1b_Exercises.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/W1b_Exercises.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../W1b_Exercises/main.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,9 +74,9 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -222,7 +93,9 @@
       <workItem from="1614111610991" duration="4603000" />
       <workItem from="1614212925244" duration="4174000" />
       <workItem from="1614623570190" duration="77000" />
-      <workItem from="1616721822970" duration="757000" />
+      <workItem from="1616721822970" duration="2163000" />
+      <workItem from="1616773157553" duration="71000" />
+      <workItem from="1616784002677" duration="5320000" />
     </task>
     <task id="LOCAL-00001" summary="containers and iterators">
       <created>1613760339945</created>
@@ -231,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613760339945</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="containers and iterators">
+      <created>1616722599738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616722599738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

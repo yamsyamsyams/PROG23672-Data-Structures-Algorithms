@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <vector>
 #include <algorithm> // for sort, random_shuffle
+#include "NodeSequence.h"
 
 using namespace std;
 
@@ -63,12 +64,44 @@ void use_vector() {
     }
     cout << endl;
     cout << " End of vector demonstration";
+}
 
-
+void bubbleSort1(NodeSequence& S){
+    int n = S.size();
+    for(int i  = 0; i < n; i++){
+        for(int j = 1; j < n - i; j++){
+            NodeSequence::Iterator prec = S.atIndex(j - 1); // predecessor
+            NodeSequence::Iterator succ = S.atIndex(j); // successor
+            if(*prec > * succ){ // swap if out of order
+                int tmp = *prec;
+                *prec = *succ;
+                *succ = tmp;
+            }
+        }
+    }
 }
 
 int main() {
-    use_vector();
+//    use_vector();
+    NodeSequence s;
+    vector<int> v;
+    s.insertFront(40);
+    s.insertFront(100);
+    s.insertFront(60);
+    cout << "sequence \n";
 
+    for (int i = 0; i < s.size(); i++){
+        NodeSequence::Iterator p = s.atIndex(i);
+        cout << *p << "\n";
+    }
+    bubbleSort1(s);
+
+    cout << "sequence after sorting \n";
+    for (int i = 0; i < s.size(); i++){
+        NodeSequence::Iterator p = s.atIndex(i);
+        cout << *p << "\n";
+    }
+
+//    system("pause");
     return 0;
 }

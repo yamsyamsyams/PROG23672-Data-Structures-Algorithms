@@ -3,4 +3,4 @@ project(Lab621_Containers_Iterators)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Lab621_Containers_Iterators main.cpp NodeList.h)
+add_executable(Lab621_Containers_Iterators main.cpp NodeList.h NodeSequence.h)

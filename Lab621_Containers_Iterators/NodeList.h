@@ -52,7 +52,7 @@ private: // data members
 
 // implementation of NodeList
 NodeList::NodeList() {
-    n = 0; // initiallly empty
+    n = 0; // initially empty
     header = new Node; // create sentinels
     trailer = new Node;
     header->next = trailer; // have them point to end points
