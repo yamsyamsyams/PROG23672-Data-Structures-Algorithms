@@ -7,10 +7,14 @@
 #IncludeRegexTransform: 
 
 /cygdrive/s/Code/PROG23672-Data-Structures-Algorithms/Assignment3_JamesonHoang/main.cpp
-iostream
--
 fstream
 -
+iostream
+-
+cstdlib
+-
 string.h
+-
+cstring
 -
 
