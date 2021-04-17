@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab621_Containers_Iterators.dir/main.cpp.o  -o Lab621_Containers_Iterators.exe -Wl,--out-implib,libLab621_Containers_Iterators.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Lab621_Containers_Iterators.dir/main.cpp.o -o Lab621_Containers_Iterators.exe -Wl,--out-implib,libLab621_Containers_Iterators.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
